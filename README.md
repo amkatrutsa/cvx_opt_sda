@@ -8,5 +8,5 @@
 6. [Subgradient method  and accelerated gradient methods](./acc_gd/acc_gd.ipynb)
 7. [Intro to penalty methods](./intro_penalty_auglagr.ipynb)
 8. [Proximal methods](./proximal_methods.ipynb)
-9. Smoothing techniques
+9. [Smoothing techniques](./smoothing.ipynb)
 10. [ADMM](./admm_slides.ipynb)
