@@ -11,3 +11,4 @@
 9. [Smoothing techniques](./smoothing.ipynb)
 10. [ADMM](./admm_slides.ipynb)
 11. Newton method and quasi-Newton methods [[lecture](./quasi-newton/lecture.pdf), [seminar](./quasi-newton/seminar.ipynb)]
+12. Mirror descent [[lecture](./mirror_descent/slides.pdf), [seminar](./mirror_descent/md_practice.ipynb)]
